@@ -1,0 +1,15 @@
+{
+  "fqdns": "",
+  "id": "/subscriptions/96b7042a-43e6-41b5-9629-9bd3b0cd5161/resourceGroups/daryn-cli-scripting-rg/providers/Microsoft.Compute/virtualMachines/daryn-cli-scripting-vm",
+  "identity": {
+    "systemAssignedIdentity": "4fa66537-4877-4c6a-9946-27db77268728",
+    "userAssignedIdentities": {}
+  },
+  "location": "eastus",
+  "macAddress": "00-0D-3A-8D-BE-7A",
+  "powerState": "VM running",
+  "privateIpAddress": "10.0.0.4",
+  "publicIpAddress": "168.62.165.167",
+  "resourceGroup": "daryn-cli-scripting-rg",
+  "zones": ""
+}
